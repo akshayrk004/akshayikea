@@ -1,5 +1,5 @@
 🏠 IKEA Website Clone
-
+[Live@](https://akshayprojectikea.netlify.app/)
 
 This project is a front-end replica of the IKEA homepage built using HTML, Tailwind CSS, and Font Awesome. It demonstrates responsive layout design, navigation bar structuring, and product category presentation — all crafted with modern web technologies and clean UI principles.
 
@@ -29,3 +29,4 @@ This design is meant for learning and demonstration purposes only — not for co
 ✅ IKEA-style minimalist design
 ✅ Hover effects and interactive UI elements
 
+![image](./preview.png)
